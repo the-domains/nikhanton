@@ -22,9 +22,9 @@ color:
     - '#121b0a'
     - '#c9c9bf'
     - '#6f726b'
-  brandStrength: 0
+  brandStrength: 0.1875
   lightness: 1
-  saturation: 0.5
+  saturation: 0.3125
   rhythmicContrast: 0.744371
 purpose:
   - name: null
