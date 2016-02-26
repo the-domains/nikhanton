@@ -23,7 +23,7 @@ color:
     - '#6f726b'
   brandStrength: 1
   lightness: 1
-  saturation: 0.388077
+  saturation: 0.5
   rhythmicContrast: 0.744371
 purpose:
   - name: null
