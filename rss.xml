@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Nik Hanton - Con-temporary Jeweller and Object Maker]]></title>
-        <description><![CDATA[Nik Hanton - Con-temporary Jeweller and Object Maker]]></description>
+        <title><![CDATA[Nik Hanton - Contemporary Jeweller and Object Maker]]></title>
+        <description><![CDATA[Nik Hanton - Contemporary Jeweller and Object Maker]]></description>
         <link>https://thegrid.ai/nikhanton/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 06:50:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 19:00:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nikhanton/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Memory Palaces]]></title>
@@ -40,13 +40,6 @@
             <link>https://thegrid.ai/nikhanton/a2bc5ff7-4d42-4551-989c-d7f0abccd1b0/index.html</link>
             <guid isPermaLink="false">a2bc5ff7-4d42-4551-989c-d7f0abccd1b0</guid>
             <pubDate>Fri, 26 Feb 2016 06:49:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2af54b7-4c58-4fad-ba65-2764b0810903.jpg">]]></description>
-            <link>https://thegrid.ai/nikhanton/e2855ebb-c479-4ba9-895f-04e6377284ca/index.html</link>
-            <guid isPermaLink="false">e2855ebb-c479-4ba9-895f-04e6377284ca</guid>
-            <pubDate>Fri, 26 Feb 2016 06:50:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
